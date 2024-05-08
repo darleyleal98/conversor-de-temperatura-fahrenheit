@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversorTemperatura</string>
+    <string name="valor_celcius">Insira um valor em ºC</string>
+    <string name="converter">Converter</string>
+    <string name="resultado">Resultado</string>
+    <string name="conversor_para_fahrenheit">Conversor para Fahrenheit</string>
+</resources>
